@@ -1,1 +1,1 @@
-## A REST API application for Snacks shop
+## A NodeJs REST API application for Snacks shop
